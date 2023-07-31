@@ -1,0 +1,362 @@
+[
+  {
+    "swaras": ["Ri1", "Ga1", "Ma1", "Da1", "Ni1"],
+    "chakra": "Indu",
+    "raaga": "Kanakaangi"
+  },
+  {
+    "swaras": ["Ri1", "Ga1", "Ma1", "Da1", "Ni2"],
+    "chakra": "Indu",
+    "raaga": "Ratnaangi"
+  },
+  {
+    "swaras": ["Ri1", "Ga1", "Ma1", "Da1", "Ni3"],
+    "chakra": "Indu",
+    "raaga": "Gaanamoorti"
+  },
+  {
+    "swaras": ["Ri1", "Ga1", "Ma1", "Da2", "Ni2"],
+    "chakra": "Indu",
+    "raaga": "Vanaspati"
+  },
+  {
+    "swaras": ["Ri1", "Ga1", "Ma1", "Da2", "Ni3"],
+    "chakra": "Indu",
+    "raaga": "Maanavati"
+  },
+  {
+    "swaras": ["Ri1", "Ga1", "Ma1", "Da3", "Ni3"],
+    "chakra": "Indu",
+    "raaga": "Taanaroopi"
+  },
+  {
+    "swaras": ["Ri1", "Ga2", "Ma1", "Da1", "Ni1"],
+    "chakra": "Netra",
+    "raaga": "Senaavati"
+  },
+  {
+    "swaras": ["Ri1", "Ga2", "Ma1", "Da1", "Ni2"],
+    "chakra": "Netra",
+    "raaga": "Hanumatodi"
+  },
+  {
+    "swaras": ["Ri1", "Ga2", "Ma1", "Da1", "Ni3"],
+    "chakra": "Netra",
+    "raaga": "Dhenuka"
+  },
+  {
+    "swaras": ["Ri1", "Ga2", "Ma1", "Da2", "Ni2"],
+    "chakra": "Netra",
+    "raaga": "Naatakapriya"
+  },
+  {
+    "swaras": ["Ri1", "Ga2", "Ma1", "Da2", "Ni3"],
+    "chakra": "Netra",
+    "raaga": "Kokilapriya"
+  },
+  {
+    "swaras": ["Ri1", "Ga2", "Ma1", "Da3", "Ni3"],
+    "chakra": "Netra",
+    "raaga": "Roopavati"
+  },
+  {
+    "swaras": ["Ri1", "Ga3", "Ma1", "Da1", "Ni1"],
+    "chakra": "Agni",
+    "raaga": "Gaayakapriya"
+  },
+  {
+    "swaras": ["Ri1", "Ga3", "Ma1", "Da1", "Ni2"],
+    "chakra": "Agni",
+    "raaga": "Vakulaabharanam"
+  },
+  {
+    "swaras": ["Ri1", "Ga3", "Ma1", "Da1", "Ni3"],
+    "chakra": "Agni",
+    "raaga": "Maayaamaalava Gaula"
+  },
+  {
+    "swaras": ["Ri1", "Ga3", "Ma1", "Da2", "Ni2"],
+    "chakra": "Agni",
+    "raaga": "Chakravaakam"
+  },
+  {
+    "swaras": ["Ri1", "Ga3", "Ma1", "Da2", "Ni3"],
+    "chakra": "Agni",
+    "raaga": "Sooryakaantam"
+  },
+  {
+    "swaras": ["Ri1", "Ga3", "Ma1", "Da3", "Ni3"],
+    "chakra": "Agni",
+    "raaga": "Haatakaambari"
+  },
+  {
+    "swaras": ["Ri2", "Ga2", "Ma1", "Da1", "Ni1"],
+    "chakra": "Veda",
+    "raaga": "Jhankaaradhvani"
+  },
+  {
+    "swaras": ["Ri2", "Ga2", "Ma1", "Da1", "Ni2"],
+    "chakra": "Veda",
+    "raaga": "Natabhairavi"
+  },
+  {
+    "swaras": ["Ri2", "Ga2", "Ma1", "Da1", "Ni3"],
+    "chakra": "Veda",
+    "raaga": "Keeravaani"
+  },
+  {
+    "swaras": ["Ri2", "Ga2", "Ma1", "Da2", "Ni2"],
+    "chakra": "Veda",
+    "raaga": "Kharaharapriya"
+  },
+  {
+    "swaras": ["Ri2", "Ga2", "Ma1", "Da2", "Ni3"],
+    "chakra": "Veda",
+    "raaga": "Gaurimanohari"
+  },
+  {
+    "swaras": ["Ri2", "Ga2", "Ma1", "Da3", "Ni3"],
+    "chakra": "Veda",
+    "raaga": "Varunapriya"
+  },
+  {
+    "swaras": ["Ri2", "Ga3", "Ma1", "Da1", "Ni1"],
+    "chakra": "Bana",
+    "raaga": "Maararanjani"
+  },
+  {
+    "swaras": ["Ri2", "Ga3", "Ma1", "Da1", "Ni2"],
+    "chakra": "Bana",
+    "raaga": "Chaarukesi"
+  },
+  {
+    "swaras": ["Ri2", "Ga3", "Ma1", "Da1", "Ni3"],
+    "chakra": "Bana",
+    "raaga": "Sarasaangi"
+  },
+  {
+    "swaras": ["Ri2", "Ga3", "Ma1", "Da2", "Ni2"],
+    "chakra": "Bana",
+    "raaga": "Harikaambhoji"
+  },
+  {
+    "swaras": ["Ri2", "Ga3", "Ma1", "Da2", "Ni3"],
+    "chakra": "Bana",
+    "raaga": "Dheerasankaraabharanam"
+  },
+  {
+    "swaras": ["Ri2", "Ga3", "Ma1", "Da3", "Ni3"],
+    "chakra": "Bana",
+    "raaga": "Naagaanandini"
+  },
+  {
+    "swaras": ["Ri3", "Ga3", "Ma1", "Da1", "Ni1"],
+    "chakra": "Rutu",
+    "raaga": "Yaagapriya"
+  },
+  {
+    "swaras": ["Ri3", "Ga3", "Ma1", "Da1", "Ni2"],
+    "chakra": "Rutu",
+    "raaga": "Raagavardhini"
+  },
+  {
+    "swaras": ["Ri3", "Ga3", "Ma1", "Da1", "Ni3"],
+    "chakra": "Rutu",
+    "raaga": "Gaangeyabhushani"
+  },
+  {
+    "swaras": ["Ri3", "Ga3", "Ma1", "Da2", "Ni2"],
+    "chakra": "Rutu",
+    "raaga": "Vaagatheesvari"
+  },
+  {
+    "swaras": ["Ri3", "Ga3", "Ma1", "Da2", "Ni3"],
+    "chakra": "Rutu",
+    "raaga": "Shulini"
+  },
+  {
+    "swaras": ["Ri3", "Ga3", "Ma1", "Da3", "Ni3"],
+    "chakra": "Rutu",
+    "raaga": "Chalanaata"
+  },
+  {
+    "swaras": ["Ri1", "Ga1", "Ma2", "Da1", "Ni1"],
+    "chakra": "Rishi",
+    "raaga": "Saalagam"
+  },
+  {
+    "swaras": ["Ri1", "Ga1", "Ma2", "Da1", "Ni2"],
+    "chakra": "Rishi",
+    "raaga": "Jalaarnavam"
+  },
+  {
+    "swaras": ["Ri1", "Ga1", "Ma2", "Da1", "Ni3"],
+    "chakra": "Rishi",
+    "raaga": "Jhaalavaraali"
+  },
+  {
+    "swaras": ["Ri1", "Ga1", "Ma2", "Da2", "Ni2"],
+    "chakra": "Rishi",
+    "raaga": "Navaneetam"
+  },
+  {
+    "swaras": ["Ri1", "Ga1", "Ma2", "Da2", "Ni3"],
+    "chakra": "Rishi",
+    "raaga": "Paavani"
+  },
+  {
+    "swaras": ["Ri1", "Ga1", "Ma2", "Da3", "Ni3"],
+    "chakra": "Rishi",
+    "raaga": "Raghupriya"
+  },
+  {
+    "swaras": ["Ri1", "Ga2", "Ma2", "Da1", "Ni1"],
+    "chakra": "Vasu",
+    "raaga": "Gavaambodhi"
+  },
+  {
+    "swaras": ["Ri1", "Ga2", "Ma2", "Da1", "Ni2"],
+    "chakra": "Vasu",
+    "raaga": "Bhavapriya"
+  },
+  {
+    "swaras": ["Ri1", "Ga2", "Ma2", "Da1", "Ni3"],
+    "chakra": "Vasu",
+    "raaga": "Subhapantuvaraali"
+  },
+  {
+    "swaras": ["Ri1", "Ga2", "Ma2", "Da2", "Ni2"],
+    "chakra": "Vasu",
+    "raaga": "Shadvidhamaargini"
+  },
+  {
+    "swaras": ["Ri1", "Ga2", "Ma2", "Da2", "Ni3"],
+    "chakra": "Vasu",
+    "raaga": "Suvarnaangi"
+  },
+  {
+    "swaras": ["Ri1", "Ga2", "Ma2", "Da3", "Ni3"],
+    "chakra": "Vasu",
+    "raaga": "Divyamani"
+  },
+  {
+    "swaras": ["Ri1", "Ga3", "Ma2", "Da1", "Ni1"],
+    "chakra": "Brahma",
+    "raaga": "Dhavalaambari"
+  },
+  {
+    "swaras": ["Ri1", "Ga3", "Ma2", "Da1", "Ni2"],
+    "chakra": "Brahma",
+    "raaga": "Naamanaarayani"
+  },
+  {
+    "swaras": ["Ri1", "Ga3", "Ma2", "Da1", "Ni3"],
+    "chakra": "Brahma",
+    "raaga": "Kaamavardhani"
+  },
+  {
+    "swaras": ["Ri1", "Ga3", "Ma2", "Da2", "Ni2"],
+    "chakra": "Brahma",
+    "raaga": "Raamapriya"
+  },
+  {
+    "swaras": ["Ri1", "Ga3", "Ma2", "Da2", "Ni3"],
+    "chakra": "Brahma",
+    "raaga": "Gamanaashrama"
+  },
+  {
+    "swaras": ["Ri1", "Ga3", "Ma2", "Da3", "Ni3"],
+    "chakra": "Brahma",
+    "raaga": "Vishwambari"
+  },
+  {
+    "swaras": ["Ri2", "Ga2", "Ma2", "Da1", "Ni1"],
+    "chakra": "Disi",
+    "raaga": "Shyaamalaangi"
+  },
+  {
+    "swaras": ["Ri2", "Ga2", "Ma2", "Da1", "Ni2"],
+    "chakra": "Disi",
+    "raaga": "Shanmukhapriya"
+  },
+  {
+    "swaras": ["Ri2", "Ga2", "Ma2", "Da1", "Ni3"],
+    "chakra": "Disi",
+    "raaga": "Simhendramadhyamam"
+  },
+  {
+    "swaras": ["Ri2", "Ga2", "Ma2", "Da2", "Ni2"],
+    "chakra": "Disi",
+    "raaga": "Hemavati"
+  },
+  {
+    "swaras": ["Ri2", "Ga2", "Ma2", "Da2", "Ni3"],
+    "chakra": "Disi",
+    "raaga": "Dharmavati"
+  },
+  {
+    "swaras": ["Ri2", "Ga2", "Ma2", "Da3", "Ni3"],
+    "chakra": "Disi",
+    "raaga": "Neetimati"
+  },
+  {
+    "swaras": ["Ri2", "Ga3", "Ma2", "Da1", "Ni1"],
+    "chakra": "Rudra",
+    "raaga": "Kaantaamani"
+  },
+  {
+    "swaras": ["Ri2", "Ga3", "Ma2", "Da1", "Ni2"],
+    "chakra": "Rudra",
+    "raaga": "Rishabhapriya"
+  },
+  {
+    "swaras": ["Ri2", "Ga3", "Ma2", "Da1", "Ni3"],
+    "chakra": "Rudra",
+    "raaga": "Lataangi"
+  },
+  {
+    "swaras": ["Ri2", "Ga3", "Ma2", "Da2", "Ni2"],
+    "chakra": "Rudra",
+    "raaga": "Vaachaspati"
+  },
+  {
+    "swaras": ["Ri2", "Ga3", "Ma2", "Da2", "Ni3"],
+    "chakra": "Rudra",
+    "raaga": "Mechakalyani"
+  },
+  {
+    "swaras": ["Ri2", "Ga3", "Ma2", "Da3", "Ni3"],
+    "chakra": "Rudra",
+    "raaga": "Chitraambari"
+  },
+  {
+    "swaras": ["Ri3", "Ga3", "Ma2", "Da1", "Ni1"],
+    "chakra": "Aditya",
+    "raaga": "Sucharitra"
+  },
+  {
+    "swaras": ["Ri3", "Ga3", "Ma2", "Da1", "Ni2"],
+    "chakra": "Aditya",
+    "raaga": "Jyotiswaroopini"
+  },
+  {
+    "swaras": ["Ri3", "Ga3", "Ma2", "Da1", "Ni3"],
+    "chakra": "Aditya",
+    "raaga": "Dhaatuvardhani"
+  },
+  {
+    "swaras": ["Ri3", "Ga3", "Ma2", "Da2", "Ni2"],
+    "chakra": "Aditya",
+    "raaga": "Naasikaabhooshani"
+  },
+  {
+    "swaras": ["Ri3", "Ga3", "Ma2", "Da2", "Ni3"],
+    "chakra": "Aditya",
+    "raaga": "Kosalam"
+  },
+  {
+    "swaras": ["Ri3", "Ga3", "Ma2", "Da3", "Ni3"],
+    "chakra": "Aditya",
+    "raaga": "Rasikapriya"
+  }
+]
